@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taranjeet2001" alt="taranjeet2001" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱
 
-- 💬 Ask me about **Python, django, sql**
+- 💬 Ask me about **Python, django, sql, ReactJS, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
